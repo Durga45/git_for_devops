@@ -1,0 +1,17 @@
+6 git init --- initilaize
+   7 git status -- check staging or unstaging
+   8 git add . --- to stage
+   9 git status -- check stagingg
+ 
+  14 git rm test.py -- to remove a file
+  15 git status -- check staging
+  16 clear--- clear screen
+  17 git reset -- to unstage
+  18 git status --check staging
+  19 git add . -- to stage 
+  20 git commit -m "my initial commit" -- to set file as tracked
+  21 git status
+  22 rm test.py
+  23 git status
+  24 git restore test.py
+  25 history
